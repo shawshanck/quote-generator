@@ -1,3 +1,6 @@
+// Developer: Shawshanck 'Mohammad Mohammadpour'
+// github: https://github.com/shawshanck/quote-generator
+
 console.log('testing');
 
 const quoteContainer = document.getElementById('quote-container');
